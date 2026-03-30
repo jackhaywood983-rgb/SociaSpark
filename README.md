@@ -11,6 +11,6 @@ Usage: Enter time of the day and get suggestoin
 
 GitHub Usage GitHub was used for version control.
 
-App demo video :
+App demo video : https://youtu.be/Y6tyFkUV7SY
 
 Ethan Haywood
