@@ -1,9 +1,9 @@
 # SocialSpark
 This app was created to make initiating social interactions more simple.
 
-clean and simple UI, Error handling.
+Clean and simple UI, Error handling.
 
-used Kotlin,Android Studio,XML,GitHub.
+Used Kotlin,Android Studio,XML,GitHub.
 
 Installation: Clone the repository, open in Android Studio, Run the app.
 
